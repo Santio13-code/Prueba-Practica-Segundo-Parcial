@@ -1,4 +1,4 @@
-```markdown
+
 # Sistema de Gestión de Hospital Inteligente - Oracle SQL
 
 Este repositorio contiene la solución técnica para un sistema de base de datos hospitalario desarrollado en **Oracle SQL**. El proyecto se centra en la aplicación de reglas de integridad referencial avanzadas, específicamente el uso de eliminaciones en cascada para garantizar la consistencia de la información clínica.
